@@ -1,5 +1,11 @@
 # tdf2024_imagine
 
+## Before all
+Database + sql script + 
+```
+node parser.js
+```
+
 ## Project setup
 ```
 npm install
