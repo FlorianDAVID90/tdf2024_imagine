@@ -1,0 +1,145 @@
+[
+  {
+    "id_col": 1,
+    "cat_col": 2,
+    "nom_col": "Col del Muraglione",
+    "nb_km": 7.2,
+    "poucentage_moyen": 6.8,
+    "altitude": 905,
+    "situation_km": 48,
+    "img_profil_col": "",
+    "id_etape": 1
+  },
+  {
+    "id_col": 2,
+    "cat_col": 4,
+    "nom_col": "Côte de Sadurano",
+    "nb_km": 3.2,
+    "poucentage_moyen": 5,
+    "altitude": 222,
+    "situation_km": 95,
+    "img_profil_col": "",
+    "id_etape": 1
+  },
+  {
+    "id_col": 3,
+    "cat_col": 4,
+    "nom_col": "Côte de Bertinoro",
+    "nb_km": 2.9,
+    "poucentage_moyen": 5.9,
+    "altitude": 212,
+    "situation_km": 115.5,
+    "img_profil_col": "",
+    "id_etape": 1
+  },
+  {
+    "id_col": 4,
+    "cat_col": 4,
+    "nom_col": "Côte de Longiano",
+    "nb_km": 2.4,
+    "poucentage_moyen": 4.6,
+    "altitude": 161,
+    "situation_km": 139.5,
+    "img_profil_col": "",
+    "id_etape": 1
+  },
+  {
+    "id_col": 5,
+    "cat_col": 3,
+    "nom_col": "Côte de la Cima Gallisterna",
+    "nb_km": 2.6,
+    "poucentage_moyen": 6.8,
+    "altitude": 270,
+    "situation_km": 76.5,
+    "img_profil_col": "",
+    "id_etape": 2
+  },
+  {
+    "id_col": 6,
+    "cat_col": 2,
+    "nom_col": "Col de la Pieve",
+    "nb_km": 5.1,
+    "poucentage_moyen": 6.4,
+    "altitude": 447,
+    "situation_km": 111.5,
+    "img_profil_col": "",
+    "id_etape": 2
+  },
+  {
+    "id_col": 7,
+    "cat_col": 2,
+    "nom_col": "Col de Cerere",
+    "nb_km": 4.5,
+    "poucentage_moyen": 8.9,
+    "altitude": 589,
+    "situation_km": 135.5,
+    "img_profil_col": "col-de-cerere.png",
+    "id_etape": 2
+  },
+  {
+    "id_col": 8,
+    "cat_col": 4,
+    "nom_col": "Côte de Cà del Vento",
+    "nb_km": 1.2,
+    "poucentage_moyen": 6.9,
+    "altitude": 502,
+    "situation_km": 141.5,
+    "img_profil_col": "",
+    "id_etape": 2
+  },
+  {
+    "id_col": 9,
+    "cat_col": 2,
+    "nom_col": "Côte de San Luca",
+    "nb_km": 2.1,
+    "poucentage_moyen": 9.7,
+    "altitude": 273,
+    "situation_km": 174.5,
+    "img_profil_col": "cote-de-san-luca.png",
+    "id_etape": 2
+  },
+  {
+    "id_col": 10,
+    "cat_col": 4,
+    "nom_col": "Côte del Genio",
+    "nb_km": 1.7,
+    "poucentage_moyen": 8.3,
+    "altitude": 221,
+    "situation_km": 183,
+    "img_profil_col": "",
+    "id_etape": 2
+  },
+  {
+    "id_col": 11,
+    "cat_col": 4,
+    "nom_col": "Côte de Rivenza",
+    "nb_km": 3.4,
+    "poucentage_moyen": 4.7,
+    "altitude": 357,
+    "situation_km": 53.5,
+    "img_profil_col": "",
+    "id_etape": 3
+  },
+  {
+    "id_col": 12,
+    "cat_col": 4,
+    "nom_col": "Côte dell'Elfo",
+    "nb_km": 0.8,
+    "poucentage_moyen": 9.5,
+    "altitude": 297,
+    "situation_km": 55.5,
+    "img_profil_col": "",
+    "id_etape": 3
+  },
+  {
+    "id_col": 13,
+    "cat_col": 4,
+    "nom_col": "Côte de Casa Isola",
+    "nb_km": 1.4,
+    "poucentage_moyen": 5,
+    "altitude": 235,
+    "situation_km": 116.5,
+    "img_profil_col": "",
+    "id_etape": 3
+  }
+]
